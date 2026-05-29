@@ -36,6 +36,7 @@ gap or incident link.
 ## Repo entrypoints detected
 
 - `README.md`
+- `ECOSYSTEM.md`
 
 ## Maintenance
 
