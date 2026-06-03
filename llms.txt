@@ -1,4 +1,4 @@
-# Autoswarm Sandbox
+# Selva Sandbox
 
 Compact LLM context index for this repository.
 

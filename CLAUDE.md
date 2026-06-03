@@ -1,4 +1,4 @@
-# Autoswarm Sandbox Claude Compatibility Redirect
+# Selva Sandbox Claude Compatibility Redirect
 
 Canonical agent instructions live in [AGENTS.md](./AGENTS.md).
 

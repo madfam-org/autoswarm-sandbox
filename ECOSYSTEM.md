@@ -1,4 +1,4 @@
-# autoswarm-sandbox — Ecosystem Context
+# selva-sandbox — Ecosystem Context
 
 > [!IMPORTANT]
 > MADFAM-ENCLII-FIRST-LEGACY-RAW v1: This document contains legacy raw infrastructure command examples.
@@ -7,11 +7,11 @@
 > access as platform bootstrap or documented break-glass only, and record any
 > missing Enclii adapter gap.
 
-> **Disposable sandbox for AutoSwarm autonomous agent workflow experiments.**
+> **Disposable sandbox for Selva autonomous agent workflow experiments.**
 
 ## What this repo is
 
-AutoSwarm Sandbox is a throwaway repository for testing autonomous agent
+Selva Sandbox is a throwaway repository for testing autonomous agent
 workflows, branch protection patterns, and CI guardrails before promoting
 patterns to production MADFAM services.
 
@@ -27,7 +27,7 @@ patterns to production MADFAM services.
 
 ### Related repos
 
-- `autoswarm-office` — production AutoSwarm product surface
+- `selva-office` — production Selva product surface
 - `enclii` — platform control plane when experiments graduate to Enclii-first ops
 - `solarpunk-foundry` — shared `@madfam/*` packages and port registry
 

@@ -1,6 +1,6 @@
-# AutoSwarm Sandbox
+# Selva Sandbox
 
-A disposable repository for testing AutoSwarm autonomous agent workflows.
+A disposable repository for testing Selva autonomous agent workflows.
 
 ## TODO
 
